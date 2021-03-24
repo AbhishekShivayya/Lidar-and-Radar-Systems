@@ -1,0 +1,5 @@
+<launch>
+  <!-- lidar task1 launch file -->
+  <node pkg="rasp_lidar_task1" type="final.py" name="task_lb" output="screen">
+  </node>
+</launch>
